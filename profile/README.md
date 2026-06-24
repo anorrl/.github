@@ -1,4 +1,3 @@
-# anorrl
 
 # HELLO ALERT!!!
 
@@ -15,6 +14,8 @@ if i did go back to this, i would ONLY be a client developer for this project NO
 tl;dr feel free to rehost this project, change how you want it to be in your eyes (in your own host) and contributions are still open
 
 ### ok now normal read me
+
+# anorrl
 
 welcome to the anorrl organisation!
 
