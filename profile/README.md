@@ -1,20 +1,4 @@
 
-# HELLO ALERT!!!
-
-hi, grace/abi here. i've discontinued this project (I am no longer working on it) BUT i am open to contributions AND rehosts for this project.
-
-...
-
-***just commit to it at least (and give credits where credit is due)***
-
-if you want to change up the project however you want in your eyes (of your own host) THEN GO AHEAD! don't let me control how you should work on your own version of this project. (+ i don't even care for this project anymore anyways)
-
-if i did go back to this, i would ONLY be a client developer for this project NOTHING MORE!!!
-
-tl;dr feel free to rehost this project, change how you want it to be in your eyes (in your own host) and contributions are still open
-
-### ok now normal read me
-
 # anorrl
 
 welcome to the anorrl organisation!
