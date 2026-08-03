@@ -17,7 +17,7 @@ ANORRL (ANOther Roblox Retake Lol) is a roblox alternative project that aims to 
 
 the project initially began in August 2025 - October 2025, this is called the __*beta*__ era. the primary client was 2013.
 
-after a while, the project was picked up again in December 2025 (at christmas) in which the ball has been rolling since as a 2016 source project!
+after a while, the project was picked up again in December 2025 (at christmas) in which the ball has been rolling since as a source project!
 
 ***managed by kuro***
 
