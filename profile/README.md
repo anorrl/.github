@@ -19,6 +19,8 @@ the project initially began in August 2025 - October 2025, this is called the __
 
 after a while, the project was picked up again in December 2025 (at christmas) in which the ball has been rolling since as a source project!
 
+this project is based off the 2016E source code, however it is not aiming to be 2016E (and thus shouldn't be called a 2016E revival or revival in general)
+
 ***managed by kuro***
 
 ## why anorrl?
