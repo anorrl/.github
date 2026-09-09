@@ -11,6 +11,8 @@ welcome to the organisation! have a look around!
 |<img width="256" height="256" alt="kuro" src="https://github.com/user-attachments/assets/5c83953c-b328-4b59-b0b9-26767aa6f172" />| <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/efaaf044-64fa-48df-a822-64ce9edc361d" /> | <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/9b7ea2dc-05cf-49d5-85d0-0093b64f2dc0" /> | <img width="256" height="256" alt="they would like to be anonymous" src="https://github.com/user-attachments/assets/8125cbf5-4927-454e-803c-a2b3a1390067" />
 | developer/artist <br>project head | part-time developer | the vm guy <3 <br>part-time junior dev | security researcher <br>part-time developer |
 
+if you think we have left you out, please let us know!
+
 </center>
 
 ## .about
