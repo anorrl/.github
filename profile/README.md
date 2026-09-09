@@ -42,3 +42,5 @@ it's mostly just one developer (kuro) working on this project so help is appreci
 we do not have a discord nor do we want to establish one. you can contact us at [info@anorrl.com](mailto:info@anorrl.com) !
 
 although expect long wait times, we don't often check the inbox...
+
+you could maybe interact with kuro on twitter [@kuro_remover](https://x.com/kuro_remover)
