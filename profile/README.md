@@ -15,7 +15,7 @@ welcome to the organisation! have a look around!
 
 ## .about
 
-this is the home place of the ANORRL (ANOtherRobloxRetakeLol) project, a project aiming to provide a viable alternative creative outlet for Roblox.
+this is the home place of the ANORRL (ANOtherRobloxRetakeLol) project, which aims to provide a viable alternative creative outlet for Roblox.
 
 we are constantly trying to innovate the client and site as to make sure everything is just right!
 
