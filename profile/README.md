@@ -45,3 +45,6 @@ we do not have a discord nor do we want to establish one. you can contact us at 
 although expect long wait times, we don't often check the inbox...
 
 you could maybe interact with kuro on twitter [@kuro_remover](https://x.com/kuro_remover)
+
+<img width="500" height="500" alt="GRAVEROBBING" src="https://github.com/user-attachments/assets/6ce99c61-506c-4a57-81c3-7a9dbe6b5cab" />
+
