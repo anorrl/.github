@@ -2,7 +2,7 @@
 
 welcome to the organisation! have a look around!
 
-**canned. (19/10/2026)**
+**canned. (19/10/2026) >>> [READ HERE](https://x.com/kuro_remover/status/2112291909745983685) <<<**
 
 
 ## .contributors
